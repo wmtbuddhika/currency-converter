@@ -43,7 +43,7 @@ The env value `FIXER_API_KEY` is generated from fixer dashboard and used to auth
             "message":"Currency exchange request failed due to validations: [validations]"
         }
         
-###Setting up the Development Environment
+### Setting up the Development Environment
 
 - Download go: https://golang.org/dl/
 - Pull the source code: `git pull https://github.com/wmtbuddhika/currency-converter.git`
